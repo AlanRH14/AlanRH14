@@ -1,4 +1,7 @@
-<h2 style="text-align: center;">👋 Hola, soy Alan Andrés</h2>
+<div>
+    <h2 style="text-align: center;">👋 Hola, soy Alan Andrés</h2>
+</div>
+
 
 <ul>
     <li>📲 Mobile Developer</li>
@@ -20,4 +23,11 @@
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge">
     <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge">
 </div>
+
+<h2>⚙️ &nbsp; Github Analytics</h2>
+
+<a href="https://github.com/ArisGuimera">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlanRH14&show_icons=true&title_color=1E90FF&icon_color=808080&text_color=FFFFFF&theme=dark&include_all_commits=true&count_private=true" alt="Github Readme Stats">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlanRH14&layout=compact&langs_count=8&title_color=1E90FF&theme=dark" alt="Github Readme Top Langs">
+</a>
 
