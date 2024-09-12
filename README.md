@@ -31,11 +31,11 @@
 
 <h2>⚙️ &nbsp; Github Analytics</h2>
 
-<div style="display: flex; flex-wrap: wrap;">
+<div>
     <a href="https://github.com/AlanRH14">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlanRH14&show_icons=true&title_color=42A5F5&icon_color=808080&text_color=FFFFFF&theme=dark&include_all_commits=true&count_private=true" alt="Github Readme Stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=AlanRH14&&show_icons=true&title_color=42A5F5&icon_color=808080&text_color=FFFFFF&theme=dark&include_all_commits=true&count_private=true" alt="Github Readme Stats">
         <img src="https://streak-stats.demolab.com/?user=AlanRH14&theme=dark&locale=es&fire=42A5F5&ring=42A5F5&currStreakLabel=42A5F5" alt="Github Readme Streak Stats">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlanRH14&layout=compact&langs_count=8&title_color=42A5F5&theme=dark" alt="Github Readme Top Langs">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanRH14&layout=compact&langs_count=8&title_color=42A5F5&theme=dark&locale=es" alt="Github Readme Top Langs">
     </a>
 </div>
 
