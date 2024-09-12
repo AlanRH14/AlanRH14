@@ -1,7 +1,7 @@
 <h2 style="text-align: center">👋 Hola, soy Alan Andrés</h2>
 
 <div>
-    <h2>💫 Sobre mi</h2>
+    <h2>💫 &nbsp; Sobre mi</h2>
 </div>
 
 <ul>
@@ -9,7 +9,7 @@
     <li>🔭 Actualmente estoy trabajando en Grupo Salinas</li>
 </ul>
 
-<h2>💻  Tecnologías</h2>
+<h2>💻  &nbsp; Tecnologías</h2>
 
 <div id="badges">
     <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Badge">
@@ -33,20 +33,22 @@
 
 <div>
     <a href="https://github.com/AlanRH14">
-        <img src="https://github-readme-stats.vercel.app/api?username=AlanRH14&show_icons=true&show_icons=true&title_color=42A5F5&icon_color=808080&text_color=FFFFFF&include_all_commits=true&theme=dark" alt="Github Readme Stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=AlanRH14&show_icons=true&show_icons=true&title_color=42A5F5&icon_color=808080&text_color=FFFFFF&include_all_commits=true&theme=dark&custom_title=Enzo%20Bustos%27s%20GitHub%20Stats" alt="Github Readme Stats">
         <img src="https://streak-stats.demolab.com/?user=AlanRH14&fire=42A5F5&ring=42A5F5&currStreakLabel=42A5F5&theme=dark&locale=es" alt="Github Readme Streak Stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanRH14&layout=compact&langs_count=8&title_color=42A5F5&theme=dark&locale=es" alt="Github Readme Top Langs">
     </a>
 </div>
 
+<h2>🏆 &nbsp; Trofeos de Github</h2>
+
 <div>
     <img src="https://github-profile-trophy.vercel.app/?username=AlanRH14&theme=darkhub" alt="GitHub Profile Trophy">
 </div>
+
+<br>
 
 <div>
     <a href="https://github.com/AlanRH14">
         <img src="https://visitcount.itsvg.in/api?id=AlanRH14&label=Profile%20Views&color=12&icon=8&pretty=true" alt="Visit Count">
     </a>
 </div>
-
-<!--Blue color 1E90FF-->
