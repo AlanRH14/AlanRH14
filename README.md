@@ -6,8 +6,10 @@
 
 <ul>
     <li>📲 Mobile Developer</li>
-    <li>"🔭 Actualmente estoy trabajando en Grupo Salinas</li>
+    <li>🔭 Actualmente estoy trabajando en Grupo Salinas</li>
 </ul>
+
+
 
 <div id="badges">
     <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Badge">
