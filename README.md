@@ -9,7 +9,7 @@
     <li>🔭 Actualmente estoy trabajando en Grupo Salinas</li>
 </ul>
 
-
+<h2>💻  Tecnologías</h2>
 
 <div id="badges">
     <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Badge">
@@ -31,14 +31,18 @@
 
 <h2>⚙️ &nbsp; Github Analytics</h2>
 
-<a href="https://github.com/AlanRH14">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlanRH14&show_icons=true&title_color=42A5F5&icon_color=808080&text_color=FFFFFF&theme=dark&include_all_commits=true&count_private=true" alt="Github Readme Stats">
-    <img src="https://streak-stats.demolab.com/?user=AlanRH14&theme=dark&locale=es&fire=42A5F5&ring=42A5F5&currStreakLabel=42A5F5" alt="Github Readme Streak Stats">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlanRH14&layout=compact&langs_count=8&title_color=42A5F5&theme=dark" alt="Github Readme Top Langs">
-</a>
+<div>
+    <a href="https://github.com/AlanRH14">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlanRH14&show_icons=true&title_color=42A5F5&icon_color=808080&text_color=FFFFFF&theme=dark&include_all_commits=true&count_private=true" alt="Github Readme Stats">
+        <img src="https://streak-stats.demolab.com/?user=AlanRH14&theme=dark&locale=es&fire=42A5F5&ring=42A5F5&currStreakLabel=42A5F5" alt="Github Readme Streak Stats">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlanRH14&layout=compact&langs_count=8&title_color=42A5F5&theme=dark" alt="Github Readme Top Langs">
+    </a>
+</div>
 
-<a href="https://github.com/AlanRH14">
-    <img src="https://visitcount.itsvg.in/api?id=AlanRH14&label=Profile%20Views&color=12&icon=8&pretty=true" alt="Visit Count">
-</a>
+<div>
+    <a href="https://github.com/AlanRH14">
+        <img src="https://visitcount.itsvg.in/api?id=AlanRH14&label=Profile%20Views&color=12&icon=8&pretty=true" alt="Visit Count">
+    </a>
+</div>
 
 <!--Blue color 1E90FF-->
