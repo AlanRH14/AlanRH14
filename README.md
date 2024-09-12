@@ -1,6 +1,4 @@
-<div>
-    <h2 style="text-align: center;">👋 Hola, soy Alan Andrés</h2>
-</div>
+<h2 style="text-align: center;">👋 Hola, soy Alan Andrés</h2>
 
 <div>
     <h2>💫 Sobre mi</h2>
