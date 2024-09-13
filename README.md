@@ -5,8 +5,10 @@
 </div>
 
 <ul>
-    <li>📲 Mobile Developer</li>
-    <li>🔭 Actualmente estoy trabajando en Grupo Salinas</li>
+    <li>📲 Mobile Developer.</li>
+    <li>🔭 Actualmente estoy trabajando en Grupo Salinas.</li>
+    <li>🌱 Me gusta compartir mis conocimientos con los demás y siempre estoy dispuesto a aprender más.</li>
+    <li>💪 Aquí es donde escribo, codifico y resuelvo problemas:</li>
 </ul>
 
 <h2>💻 &nbsp;Tecnologías</h2>
