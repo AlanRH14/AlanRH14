@@ -53,7 +53,7 @@
     <a href="https://github.com/AlanRH14">
         <img src="https://visitcount.itsvg.in/api?id=AlanRH14&label=Profile%20Views&color=12&icon=8&pretty=true" alt="Visit Count">
     </a>
-    <a href="linkedin.com/in/alan-andres-rh-073119190">
+    <a href="https://linkedin.com/in/alan-andres-rh-073119190">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
     </a>
 </div>
