@@ -5,8 +5,10 @@
 </div>
 
 <ul>
-    <li>📲 Mobile Developer</li>
-    <li>🔭 Actualmente estoy trabajando en Grupo Salinas</li>
+    <li>📲 Mobile Developer.</li>
+    <li>🔭 Actualmente estoy trabajando en Grupo Salinas.</li>
+    <li>🌱 Me gusta compartir mis conocimientos con los demás y siempre estoy dispuesto a aprender más.</li>
+    <li>💪 Aquí es donde escribo, codifico y resuelvo problemas:</li>
 </ul>
 
 <h2>💻 &nbsp;Tecnologías</h2>
@@ -50,5 +52,8 @@
 <div>
     <a href="https://github.com/AlanRH14">
         <img src="https://visitcount.itsvg.in/api?id=AlanRH14&label=Profile%20Views&color=12&icon=8&pretty=true" alt="Visit Count">
+    </a>
+    <a href="linkedin.com/in/alan-andres-rh-073119190">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
     </a>
 </div>
