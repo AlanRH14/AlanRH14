@@ -1,7 +1,7 @@
-<h2 style="text-align: center">👋 Hola, soy Alan Andrés</h2>
+<h2 style="text-align: center">👋 &nbsp;Hola, soy Alan Andrés</h2>
 
 <div>
-    <h2>💫 &nbsp; Sobre mi</h2>
+    <h2>💫 &nbsp;Sobre mi</h2>
 </div>
 
 <ul>
@@ -9,7 +9,7 @@
     <li>🔭 Actualmente estoy trabajando en Grupo Salinas</li>
 </ul>
 
-<h2>💻  &nbsp; Tecnologías</h2>
+<h2>💻 &nbsp;Tecnologías</h2>
 
 <div id="badges">
     <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Badge">
@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Badge">
 </div>
 
-<h2>⚙️ &nbsp; Github Analytics</h2>
+<h2>⚙️ &nbsp;Github Analytics</h2>
 
 <div>
     <a href="https://github.com/AlanRH14">
@@ -39,7 +39,7 @@
     </a>
 </div>
 
-<h2>🏆 &nbsp; Trofeos de Github</h2>
+<h2>🏆 &nbsp;Trofeos de Github</h2>
 
 <div>
     <img src="https://github-profile-trophy.vercel.app/?username=AlanRH14&theme=darkhub" alt="GitHub Profile Trophy">
