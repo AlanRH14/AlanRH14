@@ -35,7 +35,7 @@
 
 <div>
     <a href="https://github.com/AlanRH14">
-        <img src="https://github-readme-stats.vercel.app/api?username=AlanRH14&show_icons=true&show_icons=true&title_color=42A5F5&icon_color=808080&text_color=FFFFFF&include_all_commits=true&theme=dark&custom_title=Enzo%20Bustos%27s%20GitHub%20Stats" alt="Github Readme Stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=AlanRH14&show_icons=true&show_icons=true&title_color=42A5F5&icon_color=808080&text_color=FFFFFF&include_all_commits=true&theme=dark&custom_title=Alan%20Andres%20GitHub%20Stats" alt="Github Readme Stats">
         <img src="https://streak-stats.demolab.com/?user=AlanRH14&fire=42A5F5&ring=42A5F5&currStreakLabel=42A5F5&theme=dark&locale=es" alt="Github Readme Streak Stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanRH14&layout=compact&langs_count=8&title_color=42A5F5&theme=dark&locale=es" alt="Github Readme Top Langs">
     </a>
