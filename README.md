@@ -1,4 +1,13 @@
-<h2 style="text-align: center">👋 &nbsp;Hola, soy Alan Andrés</h2>
+<img alt="Android Developer Challenge banner" data-original-height="480" data-original-width="1600" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7VLakGxXY3xoBe7Tn4yhk2mhhvZrfWLCV3HpZOvJcdVrXaYUR3pRrpFXb8IEEM_IxCTmQCSCAK2I_QedxEAxR8Y0mV418qCg-CRMctCB93CtJlU9ZpvNLvVEwXKYV0VN7ZOcubBVJeSw/s1600/2000_600px.gif" style="width:100%">
+
+<h1 align="center">
+    <b>Hola, soy Alan Andrés&nbsp;</b>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></img> 
+</h1>
+
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=35&pause=1000&color=42A5F5&center=true&vCenter=true&width=700&lines=Soy+Desarrollador+Android;Bienvenido+a+mi+perfil+de+Github" alt="Typing SVG" /></a>
+</div>
 
 <div>
     <h2>💫 &nbsp;Sobre mi</h2>
